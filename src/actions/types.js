@@ -1,0 +1,11 @@
+export const SET_DRAWER_MENU = 'SET_DRAWER_MENU';
+export const GET_ERRORS =  'GET_ERRORS';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const LOADING = 'LOADING';
+export const TICKETSITT = 'TicKetSitt!101@*Pasajesecuador.c';
+export const IV = 'pasajesecuadorec';
+export const GET_PROFILE = 'GET_PROFILE';
+export const CLEAR_CURRENT_PROFILE = 'CLEAR_CURRENT_PROFILE';
+export const GET_CITIES = 'GET_CITIES';
+export const GET_COMPANIES = 'GET_COMPANIES';
+export const patternEmail = [/^(([^<>()\\[\]\\.,;:\s@"]+(\.[^<>()\\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/,];
